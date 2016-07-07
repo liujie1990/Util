@@ -4,3 +4,5 @@ https://segmentfault.com/a/1190000000652891#articleHeader0
 http://div.io/topic/1092
 #3.深入理解JavaScript系列(汤姆大叔的博客)
 http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
+#4.React 入门实例教程
+http://www.ruanyifeng.com/blog/2015/03/react.html
