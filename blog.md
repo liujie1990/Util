@@ -7,7 +7,7 @@ https://segmentfault.com/a/1190000000652891#articleHeader0
 ###2.深入理解JavaScript系列(汤姆大叔的博客)
 http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
 ##HTML5和CSS3
-###WebSocket 实战
+###1.WebSocket 实战
 http://www.ibm.com/developerworks/cn/java/j-lo-WebSocket/#icomments
 ##移动端相关
 ###1.移动端高清、多屏适配方案
@@ -15,4 +15,7 @@ http://div.io/topic/1092
 ##框架相关
 ###1.React 入门实例教程
 http://www.ruanyifeng.com/blog/2015/03/react.html
+##其他
+###1.GIT和SVN之间的五个基本区别
+http://blog.csdn.net/saint1126/article/details/5953339
 
