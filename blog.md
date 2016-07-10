@@ -1,6 +1,8 @@
-###常看
+###团队
 ####1.腾讯全端 AlloyTeam 团队 Blog
 http://www.alloyteam.com/2014/11/whydidwebuildreact/
+####2.百度EFE
+http://efe.baidu.com/blog/an-obsessive-view-on-modularization/
 ###js相关
 ####1.详解js闭包 
 https://segmentfault.com/a/1190000000652891#articleHeader0
