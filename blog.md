@@ -1,25 +1,36 @@
-###团队
-####1.腾讯全端 AlloyTeam 团队 Blog
+##喜欢的博文
+####阮一峰的网络日志
+http://www.ruanyifeng.com/blog/
+####Web 技术研究所
+https://www.web-tinker.com/
+####小胡子的微分享
+http://www.barretlee.com/entry/#🌔
+####腾讯全端 AlloyTeam 团队 Blog
 http://www.alloyteam.com/2014/11/whydidwebuildreact/
-####2.百度EFE
+####百度EFE
 http://efe.baidu.com/blog/an-obsessive-view-on-modularization/
-###js相关
+####百度fex
+http://fex.baidu.com/
+####
+##js相关
 ####1.详解js闭包 
 https://segmentfault.com/a/1190000000652891#articleHeader0
 ####2.深入理解JavaScript系列(汤姆大叔的博客)
 http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
-###HTML5和CSS3
+####3.JavaScript 标准参考教程
+http://javascript.ruanyifeng.com/
+##HTML5和CSS3
 ####1.WebSocket 实战
 http://www.ibm.com/developerworks/cn/java/j-lo-WebSocket/#icomments
-###移动端相关
+##移动端开发相关
 ####1.移动端高清、多屏适配方案
 http://div.io/topic/1092
 ####2.web移动开发最佳实践之html篇
 http://www.cnblogs.com/xiangzi888/archive/2013/01/12/2857852.html
-###框架相关
+##框架相关
 ####1.React 入门实例教程
 http://www.ruanyifeng.com/blog/2015/03/react.html
-###其他
+##其他
 ####1.GIT和SVN之间的五个基本区别
 http://blog.csdn.net/saint1126/article/details/5953339
 
