@@ -19,6 +19,8 @@ https://segmentfault.com/a/1190000000652891#articleHeader0
 http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
 ####3.JavaScript 标准参考教程
 http://javascript.ruanyifeng.com/
+####4.跨域资源共享 CORS 详解
+http://www.ruanyifeng.com/blog/2016/04/cors.html
 ##HTML5和CSS3
 ####1.WebSocket 实战
 http://www.ibm.com/developerworks/cn/java/j-lo-WebSocket/#icomments
