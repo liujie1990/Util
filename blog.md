@@ -21,6 +21,8 @@ http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
 http://javascript.ruanyifeng.com/
 ####4.跨域资源共享 CORS 详解
 http://www.ruanyifeng.com/blog/2016/04/cors.html
+####5.JavaScript 秘密花园
+http://bonsaiden.github.io/JavaScript-Garden/zh/
 ##HTML5和CSS3
 ####1.WebSocket 实战
 http://www.ibm.com/developerworks/cn/java/j-lo-WebSocket/#icomments
