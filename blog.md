@@ -38,6 +38,8 @@ http://www.ruanyifeng.com/blog/2015/03/react.html
 https://github.com/theJian/build-a-hn-front-page
 ####3.2015 优秀文章 - React.js
 https://segmentfault.com/bookmark/1230000004250415
+####4.React 数据流管理架构之 Redux 介绍
+https://github.com/joeyguo/blog/issues/3
 ##其他
 ####1.GIT和SVN之间的五个基本区别
 http://blog.csdn.net/saint1126/article/details/5953339
