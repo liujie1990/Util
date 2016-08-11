@@ -31,6 +31,9 @@ http://www.ibm.com/developerworks/cn/java/j-lo-WebSocket/#icomments
 http://div.io/topic/1092
 ####2.web移动开发最佳实践之html篇
 http://www.cnblogs.com/xiangzi888/archive/2013/01/12/2857852.html
+##jQuery
+####1.菜鸟解读 jQuery
+http://www.html-js.com/article/column/136?page=2
 ##框架相关
 ####1.React 入门实例教程
 http://www.ruanyifeng.com/blog/2015/03/react.html
