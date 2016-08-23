@@ -43,6 +43,8 @@ https://github.com/theJian/build-a-hn-front-page
 https://segmentfault.com/bookmark/1230000004250415
 ####4.React 数据流管理架构之 Redux 介绍
 https://github.com/joeyguo/blog/issues/3
+####5.React.js深入学习详细解析
+http://web.jobbole.com/87069/
 ##其他
 ####1.GIT和SVN之间的五个基本区别
 http://blog.csdn.net/saint1126/article/details/5953339
