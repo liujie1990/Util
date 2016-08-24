@@ -50,4 +50,7 @@ http://web.jobbole.com/87069/
 http://blog.csdn.net/saint1126/article/details/5953339
 ####Webpack入门
 http://webpack.toobug.net/zh-cn/
+##HTTP协议
+####HTTP 协议入门
+http://www.ruanyifeng.com/blog/2016/08/http.html
 
