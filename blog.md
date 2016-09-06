@@ -53,4 +53,6 @@ http://webpack.toobug.net/zh-cn/
 ##HTTP协议
 ####HTTP 协议入门
 http://www.ruanyifeng.com/blog/2016/08/http.html
-
+##Web安全
+####CSRF攻击的应对之道
+http://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/
