@@ -23,7 +23,7 @@ ssh-keygen -t rsa -C "email@example.com"
 ```
 接下来会让你输入保存路径，你可以选择默认，也可以选择保存到对应位置，最后会让你输入密码， 密码也是可有可无的。
 #### 3. 接下来就是找到创建.ssh文件夹，打开id_rsa.pub，复制内容，登陆github，选择Settings –>SSH and GPG kyes –>New SSH Key –>Add SSH Key
-![图解]()
+![图解](https://github.com/liujie1990/Util/blob/master/git_learn/git.png)
 #### 4. 验证
 ```
 ssh -T git@github.com
