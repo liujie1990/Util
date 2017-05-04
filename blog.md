@@ -1,4 +1,6 @@
 ## 喜欢的博文
+#### 史上最全的前端资源大汇总
+http://www.jianshu.com/p/6cb49271cd2a#
 #### 阮一峰的网络日志
 http://www.ruanyifeng.com/blog/
 #### Web 技术研究所
