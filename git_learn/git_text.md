@@ -23,7 +23,7 @@ ssh-keygen -t rsa -C "email@example.com"
 ```
 接下来会让你输入保存路径，你可以选择默认，也可以选择保存到对应位置，最后会让你输入密码， 密码也是可有可无的。
 #### 3. 接下来就是找到创建.ssh文件夹，打开id_rsa.pub，复制内容，登陆github，选择Settings –>SSH and GPG kyes –>New SSH Key –>Add SSH Key
-![图解]()
+![图解](https://github.com/liujie1990/Util/blob/master/git_learn/git.png)
 #### 4. 验证
 ```
 ssh -T git@github.com
@@ -92,6 +92,22 @@ git branch –d name //删除分支
 - git remote：查看远程库的信息
 - git remote –v：查看远程库的详细信息
 - git push origin master：Git会把master分支推送到远程库对应的远程分支上
+### 相关问题解决
+```
+当使用git进行操作：
+git checkout -b local-name origin/remote-name
+出现错误：
+fatal: git checkout: updating paths is incompatible with switching branches.
+Did you intend to checkout ‘origin/remote-name‘ which can not be resolved as commit?
+```
+解决办法：
+```
+git remote show origin
+git remote update
+git fetch
+git checkout -b local-name origin/remote-name
+```
 ### 参考博文
 [推荐！手把手教你使用Git](http://blog.jobbole.com/78960/)
+
 [SVN、GIT日常看我就够了](http://blog.jobbole.com/108834/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
